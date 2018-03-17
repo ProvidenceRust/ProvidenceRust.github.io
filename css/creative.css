@@ -319,3 +319,14 @@ bottom: 0;
 min-width: 100%;
 min-height: 100%;
 }
+
+
+#mainPanel {
+    overflow: hidden;
+    position: relative;
+    background: white;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+}
